@@ -1,4 +1,4 @@
- <script type="module" src="js/data.js"></script>
+
 const list = document.getElementById("todoList");
 
 
